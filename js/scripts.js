@@ -15,4 +15,7 @@ document.write(half + '<br>');
 var value = 100;
 var doubleVal = value * 2;
 var minVal = doubleVal * 2 - value / 2;
-document.write(minVal);
+document.write(minVal + '<br>');
+
+let otherName = 'Johnny';
+document.write('My name is ' + otherName + " and I'm ready to start working!");
